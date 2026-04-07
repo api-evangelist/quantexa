@@ -7,10 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
   - Data Analytics
-  - Financial Crime
   - Decision Intelligence
+  - Financial Crime
 url: >-
   https://raw.githubusercontent.com/api-evangelist/quantexa/refs/heads/main/apis.yml
 created: '2025-02-09'
@@ -25,8 +24,7 @@ apis:
       better decisions across financial crime, risk, and customer intelligence
       use cases.
     humanURL: https://www.quantexa.com/
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: https://www.quantexa.com/
