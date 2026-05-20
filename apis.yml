@@ -46,6 +46,10 @@ apis:
       - type: Academy
         url: https://www.quantexa.com/academy/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/quantexa
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/quantexa
   - type: Website
     url: https://www.quantexa.com/
   - type: Platform
