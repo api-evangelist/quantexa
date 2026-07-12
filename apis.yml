@@ -46,6 +46,12 @@ apis:
       - type: Academy
         url: https://www.quantexa.com/academy/
 common:
+  - type: TrustCenter
+    url: security/quantexa-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/quantexa-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/quantexa-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/quantexa
   - type: LinkedIn
