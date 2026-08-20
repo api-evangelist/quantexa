@@ -29,6 +29,15 @@ tags:
   - Financial Crime
   - Risk
   - Customer Intelligence
+  - Artificial Intelligence
+tags_raw:
+  - Data Analytics
+  - Decision Intelligence
+  - Entity Resolution
+  - Graph Analytics
+  - Financial Crime
+  - Risk
+  - Customer Intelligence
   - AI
 url: >-
   https://raw.githubusercontent.com/api-evangelist/quantexa/refs/heads/main/apis.yml
@@ -46,6 +55,11 @@ apis:
       platform; public OpenAPI specifications are not currently published.
     humanURL: https://www.quantexa.com/platform/
     tags:
+      - Decision Intelligence
+      - Entity Resolution
+      - Graph Analytics
+      - Artificial Intelligence
+    tags_raw:
       - Decision Intelligence
       - Entity Resolution
       - Graph Analytics
