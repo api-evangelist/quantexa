@@ -83,6 +83,12 @@ apis:
       - type: Academy
         url: https://www.quantexa.com/academy/
 common:
+  - type: Plans
+    url: plans/quantexa-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/quantexa-rate-limits.yml
+  - type: FinOps
+    url: finops/quantexa-finops.yml
   - type: TrustCenter
     url: security/quantexa-trust-center.yml
   - type: VulnerabilityDisclosure
